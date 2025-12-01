@@ -250,7 +250,7 @@ This project is open source and available under the MIT License.
 
 - **Email**: your-email@example.com
 - **LinkedIn**: [linkedin.com/in/samyak-jain-2550831a8](https://www.linkedin.com/in/samyak-jain-2550831a8/)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **GitHub**: [https://github.com/samyak-k-jain](https://github.com/samyak-k-jain)
 
 ---
 

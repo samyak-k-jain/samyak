@@ -76,7 +76,7 @@ export const Hero = () => {
           {/* Social Links */}
           <div className="flex gap-4 justify-center">
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/samyak-k-jain"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub Profile"

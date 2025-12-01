@@ -49,7 +49,7 @@ export const Footer = () => {
               <h3 className="text-lg font-semibold mb-3">Connect</h3>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/your-username"
+                  href="https://github.com/samyak-k-jain"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub Profile"
@@ -85,7 +85,7 @@ export const Footer = () => {
                 <Heart className="h-4 w-4 text-accent fill-accent" /> using React & TypeScript
               </p>
               <a
-                href="https://github.com/your-username/portfolio"
+                href="https://github.com/samyak-k-jain/portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-accent transition-colors flex items-center gap-2"

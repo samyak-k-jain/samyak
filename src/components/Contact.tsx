@@ -128,7 +128,7 @@ export const Contact = () => {
                   </a>
 
                   <a
-                    href="https://github.com/your-username"
+                    href="https://github.com/samyak-k-jain"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 text-foreground/80 hover:text-accent transition-colors group"

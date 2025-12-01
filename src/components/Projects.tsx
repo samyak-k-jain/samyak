@@ -39,7 +39,7 @@ export const Projects = () => {
       techStack: ["Java", "Spring Boot", "React", "PostgreSQL", "Redis", "Kafka", "AWS"],
       image: project1,
       demoUrl: "https://demo-ecommerce.example.com",
-      githubUrl: "https://github.com/your-username/ecommerce-platform",
+      githubUrl: "https://github.com/samyak-k-jain/ecommerce-platform",
       codeSnippet: `// Order Service - Kafka Event Publisher
 @Service
 public class OrderService {
@@ -66,7 +66,7 @@ public class OrderService {
         "Developed a comprehensive monitoring solution for microservices infrastructure. Features include distributed tracing, custom metrics aggregation, intelligent alerting, and a real-time dashboard built with React and WebSockets. Reduced incident response time by 60%.",
       techStack: ["Spring Boot", "Prometheus", "Grafana", "React", "WebSocket", "Docker"],
       image: project2,
-      githubUrl: "https://github.com/your-username/microservices-monitor",
+      githubUrl: "https://github.com/samyak-k-jain/microservices-monitor",
       codeSnippet: `// Custom Metrics Collector
 @Component
 public class MetricsCollector {
@@ -90,7 +90,7 @@ public class MetricsCollector {
       techStack: ["Spring Boot", "WebSocket", "React", "Redis", "MongoDB", "Docker"],
       image: project3,
       demoUrl: "https://chat-demo.example.com",
-      githubUrl: "https://github.com/your-username/realtime-chat",
+      githubUrl: "https://github.com/samyak-k-jain/realtime-chat",
       codeSnippet: `// WebSocket Message Handler
 @MessageMapping("/chat.send")
 @SendTo("/topic/messages")
