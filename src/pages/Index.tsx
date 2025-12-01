@@ -2,7 +2,7 @@ import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { About } from "@/components/About";
 import { Skills } from "@/components/Skills";
-import { Projects } from "@/components/Projects";
+// import { Projects } from "@/components/Projects";
 import { Experience } from "@/components/Experience";
 import { Education } from "@/components/Education";
 import { Contact } from "@/components/Contact";
@@ -26,7 +26,7 @@ const Index = () => {
     url: window.location.origin,
     sameAs: [
       "https://www.linkedin.com/in/samyak-jain-2550831a8/",
-      "https://github.com/your-username",
+      "https://github.com/samyak-k-jain",
     ],
     knowsAbout: [
       "Java",
@@ -87,7 +87,7 @@ const Index = () => {
           <Hero />
           <About />
           <Skills />
-          <Projects />
+          {/*<Projects />*/}
           <Experience />
           <Education />
           <Contact />
