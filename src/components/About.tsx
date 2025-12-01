@@ -10,7 +10,7 @@ export const About = () => {
     "Expertise in Java, Spring Boot, React (TypeScript), and Microservices",
     "Around 3 years of full-stack development experience",
     "Experience with Kafka, Redis, AWS, Docker, and Jenkins",
-    "Improved apis response time from 2s to 11ms (880% speedup)",
+    "Improved Zuora microservices api response time from 2s to 11ms (880% speedup)",
     "Enhanced frontend performance by 40-55% through optimization techniques",
     "Built secure MFA solutions with Google Authenticator & Okta Verify",
     "Strong background in debugging, performance optimization, and system design",
