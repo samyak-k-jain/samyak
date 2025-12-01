@@ -56,13 +56,6 @@ export const Hero = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-wrap gap-4 justify-center mb-12">
-            {/*<Button*/}
-            {/*  size="lg"*/}
-            {/*  className="bg-accent hover:bg-accent-hover text-accent-foreground font-semibold"*/}
-            {/*  onClick={scrollToProjects}*/}
-            {/*>*/}
-            {/*  View Projects*/}
-            {/*</Button>*/}
             <Button
               size="lg"
               variant="outline"
